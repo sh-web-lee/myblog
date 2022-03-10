@@ -6,7 +6,6 @@
     <v-main :style="{padding: 0}">
       <router-view></router-view>
     </v-main>
-    <!-- test -->
     <!-- 搜索框 -->
     <SearchModel></SearchModel>
     <!-- 登录框 -->
